@@ -4,6 +4,7 @@
 void main () 
 {
     int a,b,c;
+    printf("CHUONG TRINH TINH TRUNG BINH CONG 3 SO");
     // nhập giá trị đầu tiên 
     printf("Nhap gia tri dau tien : ");
     scanf("%d",&a);
