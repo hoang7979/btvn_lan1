@@ -5,7 +5,7 @@ void main ()
 {
     int r ;
   // nhập bán kính hình tròn 
-  printf("CHUONG TRINH TINH CHU VI VA DIEN TICH");
+    printf("CHUONG TRINH TINH CHU VI VA DIEN TICH \n");
     printf("nhap ban kinh hinh tron :");
     scanf("%d",&r);
     // nhập giá trị của pi , phép tính chu vi , diện tích 
@@ -14,5 +14,6 @@ void main ()
         dientich = pi * r * r ;
     // in ra màn hình chu vi và diện tích 
     printf("chu vi hinh tron la :%f\n",chuvi);
-    printf("dien tich hinh tron la :%f ",dientich); 
+    printf("dien tich hinh tron la :%f ",dientich);
+    getch(); 
 }

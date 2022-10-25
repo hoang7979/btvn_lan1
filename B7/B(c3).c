@@ -16,4 +16,5 @@ void main ()
         }
     }
     else printf("Khong doc duoc !!!");
+    getch();
 }

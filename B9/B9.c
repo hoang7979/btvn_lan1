@@ -43,4 +43,5 @@ void main()
 		if (delta<0) 
 			printf("Phuong trinh vo nghiem");
 	}
+	getch() ;
 }

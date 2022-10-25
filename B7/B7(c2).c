@@ -38,4 +38,5 @@ void main()
 		default: 
 			printf("Khong doc duoc !!!");
 	}
+    getch();
 }

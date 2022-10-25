@@ -4,7 +4,7 @@
 void main () 
 {
     int a,b,c;
-    printf("CHUONG TRINH TINH TRUNG BINH CONG 3 SO");
+    printf("CHUONG TRINH TINH TRUNG BINH CONG 3 SO \n");
     // nhập giá trị đầu tiên 
     printf("Nhap gia tri dau tien : ");
     scanf("%d",&a);
@@ -16,4 +16,5 @@ void main ()
     scanf("%d",&c);
     // dùng %f là vì trung bình cộng 3 số có thể là 1 số có ","
     printf("trung binh cong cua ba so la: %f ",(float)(a + b + c )/3 );
+    getch();
 }

@@ -21,4 +21,5 @@ void main() {
     if(min2<min1)
     min=min2;
     printf("So nho nhat trong 4 so la: %d", min);
+    getch();
 }

@@ -22,4 +22,5 @@ void main ()
     }
     }
     else printf("Khong co thang nay !!!");
+    getch();
 }

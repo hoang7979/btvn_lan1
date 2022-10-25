@@ -18,4 +18,5 @@ void main()
         c=c+32; 
         printf("Chu cai sau khi thay doi la : %c\n", c);
     }
+    getch();
 }

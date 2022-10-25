@@ -11,4 +11,5 @@ void main()
         printf("So ban vua nhap la so %d\n",a);
     else 
 	    printf("Ban da nhap so sai !!! vui long nhap lai so khac ");
+    getch();
 }

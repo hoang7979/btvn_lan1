@@ -17,4 +17,5 @@ void main ()
     d = 60*60*a + 60*b + c;
     // in ra màn hình kết quả giây tính được
     printf("trung so giay la: %d ",d);
+    getch();
 }
